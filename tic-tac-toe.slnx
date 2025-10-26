@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../TestingArrayPointer/TestingArrayPointer.vcxproj" />
-  <Project Path="tic-tac-toe.vcxproj" />
+  <Project Path="../TestingArrayPointer/TestingArrayPointer.vcxproj" Id="650f92b4-4b82-42a7-af8e-c54309dc6c2d" />
+  <Project Path="tic-tac-toe.vcxproj" Id="7d9e3dd1-a690-43f6-8199-299b698e1df0" />
 </Solution>
